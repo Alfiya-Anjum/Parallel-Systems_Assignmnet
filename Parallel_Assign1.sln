@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel_Assign_Task1", "Parallel_Assign1\Parallel_Assign_Task1.csproj", "{8D7C8579-1097-49AA-A7C0-7698299F9764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel_Assign_Task2", "Parallel_Assign_Task2\Parallel_Assign_Task2.csproj", "{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7C8579-1097-49AA-A7C0-7698299F9764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7C8579-1097-49AA-A7C0-7698299F9764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7C8579-1097-49AA-A7C0-7698299F9764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7C8579-1097-49AA-A7C0-7698299F9764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9706684F-79B3-4293-9890-F4BBD44FC0AD}
+	EndGlobalSection
+EndGlobal

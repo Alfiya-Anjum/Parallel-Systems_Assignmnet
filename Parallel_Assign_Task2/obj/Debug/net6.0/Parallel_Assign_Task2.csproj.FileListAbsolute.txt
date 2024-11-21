@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\bin\Debug\net6.0\Parallel_Assign_Task2.exe
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\bin\Debug\net6.0\Parallel_Assign_Task2.deps.json
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\bin\Debug\net6.0\Parallel_Assign_Task2.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\bin\Debug\net6.0\Parallel_Assign_Task2.dll
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\bin\Debug\net6.0\Parallel_Assign_Task2.pdb
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\Parallel_Assign_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\Parallel_Assign_Task2.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\Parallel_Assign_Task2.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\Parallel_Assign_Task2.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\Parallel_Assign_Task2.dll
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\refint\Parallel_Assign_Task2.dll
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\Parallel_Assign_Task2.pdb
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\Parallel_Assign_Task2.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\Parallel_Assign1\Parallel_Assign_Task2\obj\Debug\net6.0\ref\Parallel_Assign_Task2.dll

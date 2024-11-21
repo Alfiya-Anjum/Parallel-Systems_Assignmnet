@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}|Parallel_Assign_Task2\\Parallel_Assign_Task2.csproj|c:\\users\\samsung\\source\\repos\\parallel_assign1\\parallel_assign_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}|Parallel_Assign_Task2\\Parallel_Assign_Task2.csproj|solutionrelative:parallel_assign_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}|Parallel_Assign_Task2\\Parallel_Assign_Task2.csproj|c:\\users\\samsung\\source\\repos\\parallel_assign1\\parallel_assign_task2\\parallelinventorysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}|Parallel_Assign_Task2\\Parallel_Assign_Task2.csproj|solutionrelative:parallel_assign_task2\\parallelinventorysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}|Parallel_Assign_Task2\\Parallel_Assign_Task2.csproj|c:\\users\\samsung\\source\\repos\\parallel_assign1\\parallel_assign_task2\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D7CE4F-A386-4B69-9D47-C91DEDC2B917}|Parallel_Assign_Task2\\Parallel_Assign_Task2.csproj|solutionrelative:parallel_assign_task2\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C8579-1097-49AA-A7C0-7698299F9764}|Parallel_Assign1\\Parallel_Assign_Task1.csproj|c:\\users\\samsung\\source\\repos\\parallel_assign1\\parallel_assign1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7C8579-1097-49AA-A7C0-7698299F9764}|Parallel_Assign1\\Parallel_Assign_Task1.csproj|solutionrelative:parallel_assign1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign_Task2\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Parallel_Assign_Task2\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign_Task2\\InventoryItem.cs",
+              "RelativeToolTip": "Parallel_Assign_Task2\\InventoryItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:55:00.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParallelInventorySearch.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign_Task2\\ParallelInventorySearch.cs",
+              "RelativeDocumentMoniker": "Parallel_Assign_Task2\\ParallelInventorySearch.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign_Task2\\ParallelInventorySearch.cs",
+              "RelativeToolTip": "Parallel_Assign_Task2\\ParallelInventorySearch.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:54:23.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign1\\Program.cs",
+              "RelativeDocumentMoniker": "Parallel_Assign1\\Program.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign1\\Program.cs",
+              "RelativeToolTip": "Parallel_Assign1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:35:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign_Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Parallel_Assign_Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Parallel_Assign1\\Parallel_Assign_Task2\\Program.cs",
+              "RelativeToolTip": "Parallel_Assign_Task2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:11:57.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
